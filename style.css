@@ -42,6 +42,11 @@ h1{
 .ex{
     margin-left: 2%;
 }
+.section-3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .container-1{
     width: 40%;
     margin-left: 5%;
